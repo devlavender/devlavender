@@ -1,6 +1,6 @@
 # Ágatha Isabelle Chris Moreira Guedes
 - 👋 Hi, I’m Ágatha Isabelle Chris Moreira Guedes, @devlavender, pronouns: she/her/comrade
-- 💻 I'm an experienced C developer (more than 7-years) with also some Python & Assembly (x86/riscv) experience, and also like 6-years of C++ experience, but don't tell anyone :-D
+- 💻 I'm an experienced C developer (more than 7-years) with also some Python & Assembly (x86/riscv) experience, and also like 6-years of C++ experience (but please don't tell anyone :laughing:)
 - 🐧 I am a Linux kernel developer since 2022 and a Linux user since ~2001
 - :accessibility: I am an ♾️ autistic, 🏳️‍⚧️ transgender 👧 woman, a 👩‍❤️‍👩 lesbian, and a person of 🇵🇸 palestinian origins.
 - 🐈‍⬛ I 😻 love 🐈‍⬛ cats 🐈
