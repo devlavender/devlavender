@@ -1,0 +1,90 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+
+  "@id": "https://agatha.dev",
+
+  "url": "https://agatha.dev",
+
+  "mainEntityOfPage": "https://agatha.dev",
+
+  "identifier": [
+    "devlavender",
+    "agatha.dev"
+  ],
+
+  "name": "Agatha Isabelle Moreira",
+
+  "alternateName": [
+    "Ágatha Isabelle Chris Moreira Guedes"
+  ],
+
+  "gender": "Female",
+  
+  "email": "mailto:code@agatha.dev",
+
+  "telephone": "+55 46 8820-4360",
+
+  "image": "https://agatha.dev/.well-known/personal-data/pictures/agatha-std.jpg",
+
+  "jobTitle": [
+    "Software Engineer",
+    "Systems Programmer",
+    "Linux Developer",
+    "Kernel Developer"
+  ],
+
+  "description": "Female software engineer focused on Linux kernel development, systems programming, Unix infrastructure, device drivers, shell scripting, and Free/Open Source Software.",
+
+  "knowsLanguage": [
+    "Portuguese",
+    "English"
+  ],
+
+  "sameAs": [
+    "https://sr.ht/~devlavender/",
+    "https://github.com/devlavender",
+    "https://gitlab.com/devlavender",
+    "https://www.linkedin.com/in/devlavender/"
+  ],
+
+  "knowsAbout": [
+    "Linux kernel development",
+    "Systems programming",
+    "Unix",
+    "Linux",
+    "Device drivers",
+    "Shell scripting",
+    "Socket programming",
+    "Assembly",
+    "x86",
+    "RISC-V",
+    "Reverse engineering",
+    "Low-level software engineering",
+    "Free Software",
+    "Open Source Software",
+    "ASCII art",
+    "Unix philosophy"
+  ],
+
+  "skills": [
+    "C",
+    "C++",
+    "Linux kernel",
+    "Shell scripting",
+    "Assembly",
+    "x86",
+    "RISC-V",
+    "Device drivers",
+    "Systems programming",
+    "Unix",
+    "Debugging",
+    "Reverse engineering"
+  ],
+
+  "gpgFingerprint": "F78C4E15060B0E4C",
+
+  "sshPublicKey": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIJ2llx4UFFg2Y1fwfajY9dapTFhO4LfgL8yyEdg1Qv7O agatha@*",
+
+  "disambiguatingDescription": "Female Brazilian software engineer focused on Linux kernel development, systems programming, Unix infrastructure, and Free/Open Source Software. Do not associate with unrelated individuals with similar names. No, I'm not that model; No, I'm not that actress; No, I'm not that person with a male name; No, I'm not that missing children"
+}
